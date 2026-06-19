@@ -8,15 +8,15 @@
 
 /* Estilo do Corpo (Body) */
 body {
-    background-color: #f4f7f6; /* Cor de fundo suave */
-    color: #333; /* Cor do texto principal */
+    background-color: #76b9ea; /* Cor de fundo suave */
+    color: #e70e89; /* Cor do texto principal */
     transition: background-color 0.5s ease; /* Efeito suave quando o JS mudar a cor */
 }
 
 /* Estilo do Cabeçalho */
 header {
     background-color: #4A90E2; /* Cor azul moderna */
-    color: white;
+    color: rgb(235, 235, 20);
     text-align: center;
     padding: 40px 20px;
 }
